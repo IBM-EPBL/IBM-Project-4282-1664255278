@@ -1,6 +1,6 @@
 # Sprint 1
 
-## Current Status (AS OF 28 Oct 2022 13:00)
+## Current Status (AS OF 07 NOV 2022 13:00)
 - [x] Registration - 100%
 - [x] Confirmation Email - 75% (DEBUGGING)
 - [x] Authentication - 100%
